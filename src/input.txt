@@ -1,0 +1,6 @@
+Ewan Kirby,Male,30,Software Engineer,Courage,Female,28,Dancer,Gentleness,185
+Hilary Larson,Female,24,Electrical Engineer,Wisdom,Male,32,Lawyer,Intelligence,Brown
+Caitlyn Merrill,Female,45,Lawyer,Honesty,Female,50,Singer,Honesty,Black
+Oliwier Atherton,Male,54,Teacher,Assertiveness,Female,54,Teacher,Patience,176
+Emma Robles,Female,32,Lawyer,Intelligence,Male,42,Software Engineer,Gentleness,Blonde
+Gia Norman,Female,33,Singer,Courage,Female,45,Lawyer,Honesty,Blonde
